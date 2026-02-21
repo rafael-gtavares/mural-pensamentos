@@ -4,6 +4,15 @@ import api from "./api.js";
 function cancelarPensamento(evento) {
     const formPensamento = document.querySelector('#pensamento-form');
     formPensamento.reset();
+
+    const pensamentoID = document.querySelector('#pensamento-id');
+    pensamentoID.value = "";
+
+    const subtitulo = document.querySelector('#main_subtitulo');
+    subtitulo.innerHTML = 'Adicione um pensamento novo:';
+
+    /*document.querySelector('#main_subtitulo').innerHTML = 'Adicione um pensamento novo:';
+    document.querySelector('#pensamento-id').value = "";*/
 };
 
 document.addEventListener('DOMContentLoaded', async () => {
