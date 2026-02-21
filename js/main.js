@@ -40,6 +40,7 @@ async function submeterDados(evento) {
         await acao;
 
         evento.target.reset();
+        document.querySelector('#pensamento-id').value = "";
         ui.renderizarPensamentos(); 
 
     } catch (erro) {
