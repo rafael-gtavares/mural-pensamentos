@@ -1,7 +1,5 @@
 # 💡 Mural de Pensamentos (Memoteca)
 
-![Mural de Pensamentos](./assets/imagens/thumb.png)
-
 O **Mural de Pensamentos** é uma aplicação interativa para organizar insights, frases e ideias. Este projeto nasceu de um desafio do curso da Alura ("JavaScript: Consumindo APIs"), mas foi evoluído com funcionalidades personalizadas de busca, UX aprimorada e design responsivo.
 
 ---
@@ -67,5 +65,5 @@ Caso deseje rodar o projeto com o servidor local (JSON Server):
 
 ---
 
-Desenvolvido por **[Rafael Tavares]**. 
+Desenvolvido por **Rafael Tavares**. 
 *Este projeto foi uma oportunidade incrível de aprofundar em requisições assíncronas e entregar uma interface que realmente se adapta às necessidades do usuário.*
