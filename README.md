@@ -47,7 +47,7 @@ O projeto seguiu a base visual da Rebrand Memoteca. Você pode [acessar o Figma 
 ## 🔧 Como Rodar o Projeto
 
 ### 🌐 Versão Online (Deploy)
-Acesse o projeto em funcionamento: **rafael-gtavares.github.io/mural-pensamentos/**
+Acesse o projeto em funcionamento: **[Clique aqui](https://rafael-gtavares.github.io/mural-pensamentos/)**
 
 ### 💻 Rodando Localmente
 Caso deseje rodar o projeto com o servidor local (JSON Server):
